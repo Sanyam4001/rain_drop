@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:rain_drop/services/location.dart';
 import 'package:rain_drop/services/networking.dart';
 
-const apiKey='07b2621048afbc5c621905471591005d';
+const apiKey=;
 class WeatherModel {
 
    Future<dynamic> getCityWeather(String cityName)async{
